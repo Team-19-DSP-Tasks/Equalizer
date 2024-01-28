@@ -20,8 +20,8 @@ The Equalizer App is a Python application that provides audio equalization funct
 * scipy
 
 #### In this project you can:
-* open and listen to audio files, visualize their spectrograms.
-* edit the audio file using window functions and frequency sliders(like omitting a certain sound and enhancing another one in the audio) and listen to the output and visualize it's spectrogram.
+* Open and listen to audio files, visualize their spectrograms.
+* Edit the audio file using window functions and frequency sliders(like omitting a certain sound and enhancing another one in the audio) and listen to the output and visualize it's spectrogram.
 
 ### Executing program
 
@@ -34,12 +34,19 @@ The Equalizer App is a Python application that provides audio equalization funct
 
 If you encounter any issues or have questions, feel free to reach out.
 
-## Authors
+## Contributors:
 
-#### Contributors names:
-- Kareem Salah 
-- Muhammad Sami
-- Muhammad Sayed
+<div align="left">
+  <a href="https://github.com/cln-Kafka">
+    <img src="https://avatars.githubusercontent.com/u/100665578?v=4" width="100px" alt="@Kareem Noureddine">
+  </a>
+  <a href="https://github.com/1MuhammadSami1">
+    <img src="https://avatars.githubusercontent.com/u/139786587?v=4" width="100px" alt="@M.Sami">
+  </a>
+  <a href="https://github.com/MohamedSayedDiab">
+    <img src="https://avatars.githubusercontent.com/u/90231744?v=4" width="100px" alt="@M.Sami">
+  </a>
+</div>
 
 ## License
 
