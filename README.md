@@ -1,4 +1,4 @@
-# Equalizer App
+# Signal Equalizer
 
 Equalizer used on certain audio data where you can edit this data and listen to and visualize the output.
 
@@ -35,6 +35,8 @@ The Equalizer App is a Python application that provides audio equalization funct
 If you encounter any issues or have questions, feel free to reach out.
 
 ## Contributors:
+
+Gratitude goes out to all team members for their valuable contributions to this project.
 
 <div align="left">
   <a href="https://github.com/cln-Kafka">
