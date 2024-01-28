@@ -44,7 +44,7 @@ If you encounter any issues or have questions, feel free to reach out.
     <img src="https://avatars.githubusercontent.com/u/139786587?v=4" width="100px" alt="@M.Sami">
   </a>
   <a href="https://github.com/MohamedSayedDiab">
-    <img src="https://avatars.githubusercontent.com/u/90231744?v=4" width="100px" alt="@M.Sami">
+    <img src="https://avatars.githubusercontent.com/u/90231744?v=4" width="100px" alt="@M.Sayed">
   </a>
 </div>
 
